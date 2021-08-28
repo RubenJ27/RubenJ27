@@ -28,6 +28,19 @@
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/Rubenjaramillo2798) 
 </p>
 
+<br>
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
+                width="28" /> My Github Stats</h2> </summary>
+                
+<p align = "left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanak22&show_icons=true&locale=en&layout=compact" alt="kanak22">
+</p>
+
+<br>
+
+
+<br>
 
 
 
@@ -36,7 +49,7 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanak22&show_icons=true&locale=en&layout=compact" alt="kanak22" /></p>
+
 
 
 
