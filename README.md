@@ -3,7 +3,7 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
  <!-Imagen en caso de cambio<img alt="Coding" width="25%" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
- <!- Nuevo para cuando suba estadisticas <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenJ27&show_icons=true&locale=en&layout=compact">
+ <!- Nuevo para cuando suba estadisticas <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanak22&show_icons=true&locale=en&layout=compact" alt="kanak22">
 
 <p align="center">I'm a developer.<br/>I specialize in Web-Development.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
 
@@ -34,7 +34,7 @@
                 width="28" /> My Github Stats</h2> </summary>
                 
 <p align = "left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanak22&show_icons=true&locale=en&layout=compact" alt="kanak22">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenJ27&show_icons=true&locale=en&layout=compact">
 </p>
 
 <br>
