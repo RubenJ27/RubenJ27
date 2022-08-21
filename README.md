@@ -39,6 +39,9 @@
 
 <br>
 
+<summary><h2>🔥 Streak Stats</h2> </summary>
+                
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RubenJ27&theme=algolia" alt="RubenJ27"  /></p>
 
 <br>
 
