@@ -7,6 +7,15 @@
 
 <p align="center">I'm a developer.<br/>I specialize in Web-Development.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
 
+
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Focus-React-blue" />
+  <img src="https://img.shields.io/badge/Lives-Colombia-yellow" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
+</p>
+<hr>
+
 <summary><h2><img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" align="center"
                 width="28" /> What I currently do</h2></summary>
                 
@@ -15,6 +24,7 @@
 - 👯 I am looking to collaborate on Frontend-Web projects.
 - 🤔 I'm looking for help with React and Angular.
 - 💬 Ask me about front-end web development, any technology related topic.
+
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
