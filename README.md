@@ -33,9 +33,13 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
                 width="28" /> My Github Stats</h2> </summary>
                 
-<p align = "left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenJ27&show_icons=true&locale=en&layout=compact">
-</p>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenJ27&show_icons=true&locale=en&layout=compact" alt="Ruben" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=RubenJ27&show_icons=true&locale=en&theme=chartreuse" alt="Ruben" width="410" /></p>
+<br><br><br><br><br>
+
+
 
 <br>
 
