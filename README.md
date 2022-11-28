@@ -12,7 +12,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-React-blue" />
- <img src="https://img.shields.io/badge/focus-VueJS-green" />
+ <img src="https://img.shields.io/badge/Focus-VueJS-green" />
   <img src="https://img.shields.io/badge/Lives-Colombia-yellow" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </p>
