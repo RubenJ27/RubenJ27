@@ -22,9 +22,9 @@
                 width="28" /> What I currently do</h2></summary>
                 
 - 🔭 I'm working on some things.
-- 🌱 I am currently learning React and Angular.
+- 🌱 I am currently learning React and Vuejs.
 - 👯 I am looking to collaborate on Frontend-Web projects.
-- 🤔 I'm looking for help with React and Angular.
+- 🤔 I'm looking for help with React and Vuejs.
 - 💬 Ask me about front-end web development, any technology related topic.
 
 
