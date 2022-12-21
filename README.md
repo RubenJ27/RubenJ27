@@ -83,6 +83,7 @@
  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="Vue-JS" height="30" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /> 
+ <img style="margin: 10px" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" alt="Figma" height="30" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30" />
 <img style="margin: 10px" src="https://mui.com/static/logo.png" alt="Material-UI" height="30" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="SASS" height="30" /> 
