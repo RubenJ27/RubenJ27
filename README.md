@@ -1,7 +1,8 @@
 <h1><p align="center">Hello, I'm Ruben Jaramillo! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" height="45px"></a></p></h1>
 
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/>
+<img src="https://user-images.githubusercontent.com/54613714/215473011-89fc54f8-dd04-4a2d-8d86-f1959bfee701.gif" width="26%"/>
 </p>
  <!-Imagen en caso de cambio<img alt="Coding" width="25%" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
  <!- Nuevo para cuando suba estadisticas <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanak22&show_icons=true&locale=en&layout=compact" alt="kanak22">
