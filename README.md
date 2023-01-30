@@ -47,6 +47,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenJ27&show_icons=true&locale=en&layout=compact" alt="Ruben" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=RubenJ27&theme=default&hide_border=false&include_all_commits=true&count_private=false" alt="Ruben" width="410" /></p>
+
 <br><br><br><br><br>
 
 <hr>
