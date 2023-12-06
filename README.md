@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-React-blue" />
   <img src="https://img.shields.io/badge/Focus-VueJS-green" />
   <img src="https://img.shields.io/badge/Lives-Colombia-yellow" />
